@@ -3,17 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T01", "T01\T01.csproj", "{FD617A19-8B9E-4E34-AB91-3E7E405D255C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T01", "T01\T01.csproj", "{FD617A19-8B9E-4E34-AB91-3E7E405D255C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T02. Deer of Santa", "T02. Deer of Santa\T02. Deer of Santa.csproj", "{756020AE-A2DA-4BDD-B7A8-4B2A1F2FFACD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T02. Deer of Santa", "T02. Deer of Santa\T02. Deer of Santa.csproj", "{756020AE-A2DA-4BDD-B7A8-4B2A1F2FFACD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T03. Santas Holiday", "T03. Santas Holiday\T03. Santas Holiday.csproj", "{71D19F6E-BDAB-4A35-B32F-46A433F746DF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T03. Santas Holiday", "T03. Santas Holiday\T03. Santas Holiday.csproj", "{71D19F6E-BDAB-4A35-B32F-46A433F746DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T04. Grandpa Stavri", "T04. Grandpa Stavri\T04. Grandpa Stavri.csproj", "{8DF29AD1-6E09-473A-B552-8DA9E6EE8805}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T04. Grandpa Stavri", "T04. Grandpa Stavri\T04. Grandpa Stavri.csproj", "{8DF29AD1-6E09-473A-B552-8DA9E6EE8805}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T05. Everest", "T05. Everest\T05. Everest.csproj", "{B2796B56-E421-46D6-B6FE-C19FAA0FC27B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T05. Everest", "T05. Everest\T05. Everest.csproj", "{B2796B56-E421-46D6-B6FE-C19FAA0FC27B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T06. Unique PIN Codes", "T06. Unique PIN Codes\T06. Unique PIN Codes.csproj", "{5C745BEC-D583-4D84-8DB4-F285718A25ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T06. Unique PIN Codes", "T06. Unique PIN Codes\T06. Unique PIN Codes.csproj", "{5C745BEC-D583-4D84-8DB4-F285718A25ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Account", "Account\Account.csproj", "{68626212-7196-44CB-A8CA-1A4384821ACA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{5C745BEC-D583-4D84-8DB4-F285718A25ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C745BEC-D583-4D84-8DB4-F285718A25ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C745BEC-D583-4D84-8DB4-F285718A25ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68626212-7196-44CB-A8CA-1A4384821ACA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68626212-7196-44CB-A8CA-1A4384821ACA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68626212-7196-44CB-A8CA-1A4384821ACA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68626212-7196-44CB-A8CA-1A4384821ACA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
