@@ -18,7 +18,7 @@ namespace Account
             Console.WriteLine("Thanks for logging in!");
             Console.WriteLine();
 
-            Thread.Sleep(1000);
+            Thread.Sleep(5000);
             bool flag = false;
 
             Console.WriteLine("Do you wish to stay logged in?");
@@ -41,7 +41,7 @@ namespace Account
 
             if (flag)
             {
-                Thread.Sleep(1000);
+                Thread.Sleep(10000);
                 Console.WriteLine("Hi again! Please enter your passowrd from before:");
                 int counter = 5;
                 while (counter > 0)
