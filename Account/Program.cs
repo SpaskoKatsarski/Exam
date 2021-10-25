@@ -56,8 +56,11 @@ namespace Account
                     }
                     else
                     {
-                        Console.WriteLine($"Wrong password!\nYou have {counter} more tries.");
-                        if (counter == 1)
+                        if (counter != 1)
+                        {
+                            Console.WriteLine($"Wrong password!\nYou have {counter} more tries.");
+                        }
+                        else
                         {
                             Console.WriteLine($"Wrong password!\nYou have {counter} more try.");
                         }
