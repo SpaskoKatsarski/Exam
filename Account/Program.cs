@@ -29,6 +29,7 @@ namespace Account
             {
                 Console.WriteLine();
                 Console.WriteLine("Enjoy exploring!");
+                return;
             }
             else if (option == "No" || option == "no")
             {
